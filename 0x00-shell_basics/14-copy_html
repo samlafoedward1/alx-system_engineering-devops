@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u *.html $source_dir 
+cp -u *.html .
